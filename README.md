@@ -1,16 +1,65 @@
-## Hi there 👋
+# 👨‍💻 Felipe De Sousa Barbosa
 
-<!--
-**Felipebzzz/Felipebzzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Estudante de Cibersegurança | Tecnologia da Informação | Segurança da Informação**
 
-Here are some ideas to get you started:
+Sou estudante de **Cibersegurança**, com formação técnica em **Informática** e forte interesse em **Segurança da Informação, Redes, Sistemas e Desenvolvimento Web**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Possuo conhecimentos em ambientes computacionais, desenvolvimento de sistemas, fundamentos de redes, protocolos, boas práticas de segurança e organização de sistemas. Busco constantemente aprimorar minhas habilidades técnicas, aliando desenvolvimento e segurança para criação de soluções mais seguras e eficientes.
+
+---
+
+## 🔐 Áreas de Interesse em Cibersegurança
+- Segurança da Informação  
+- Fundamentos de Redes e Protocolos  
+- Hardening de Sistemas  
+- Boas Práticas de Segurança  
+- Análise de Vulnerabilidades  
+- Conceitos de Defesa Cibernética  
+- Versionamento e Documentação Técnica  
+
+---
+
+## 🚀 Tecnologias e Ferramentas
+
+### Desenvolvimento Web
+- HTML5  
+- CSS3  
+- JavaScript  
+- TypeScript  
+- React  
+- Next.js  
+- Bootstrap  
+- Tailwind CSS  
+- SASS  
+- PHP  
+- Laravel  
+
+### Segurança & TI
+- Fundamentos de Redes  
+- Protocolos TCP/IP  
+- Noções de Firewall e Segurança de Redes  
+- Git & GitHub  
+- Python (automação e scripts)  
+
+---
+
+## 📚 Formação
+- **Curso Técnico em Informática**  
+- **Cursando Cibersegurança**
+
+---
+
+## 📊 GitHub Stats
+
+<p>
+  <img 
+    align="left" 
+    height="180" 
+    src="https://github-readme-stats.vercel.app/api?username=Felipeb96&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+  <img 
+    align="left" 
+    height="180" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipeb96&theme=tokyonight&layout=compact&langs_count=8" 
+  />
+</p>
