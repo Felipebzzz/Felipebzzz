@@ -55,11 +55,11 @@ Possuo conhecimentos em ambientes computacionais, desenvolvimento de sistemas, f
   <img 
     align="left" 
     height="180" 
-    src="https://github-readme-stats.vercel.app/api?username=Felipeb96&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=Felipebzzz&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
   <img 
     align="left" 
     height="180" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipeb96&theme=tokyonight&layout=compact&langs_count=8" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipebzzz&theme=tokyonight&layout=compact&langs_count=8" 
   />
 </p>
